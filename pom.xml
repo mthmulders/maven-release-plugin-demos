@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>it.mulders.maven</groupId>
     <artifactId>maven-release-plugin-demos</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3-SNAPSHOT</version>
 
     <name>Maven Release Plugin demos</name>
     <description>Demonstrations of customising the Maven Release Plugin</description>
@@ -11,7 +11,7 @@
     <scm>
         <connection>scm:git:https://github.com/mthmulders/maven-release-plugin-demos.git</connection>
         <developerConnection>scm:git:git@github.com:mthmulders/maven-release-plugin-demos.git</developerConnection>
-    <tag>maven-release-plugin-demos-0.0.2</tag>
+    <tag>HEAD</tag>
   </scm>
 
     <properties>
