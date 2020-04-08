@@ -40,7 +40,7 @@
                     </dependency>
                 </dependencies>
                 <configuration>
-                    <!--releaseStrategyId>ascii-art-enhanced-strategy</releaseStrategyId-->
+                    <releaseStrategyId>default</releaseStrategyId>
                 </configuration>
             </plugin>
 
