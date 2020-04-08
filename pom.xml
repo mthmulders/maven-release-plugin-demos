@@ -81,4 +81,11 @@
             <url>https://repository.apache.org/content/repositories/maven-1560/</url>
         </pluginRepository>
     </pluginRepositories>
+
+    <distributionManagement>
+        <repository>
+            <id>dummy</id>
+            <url>file:///${java.io.tmpdir}/releases</url>
+        </repository>
+    </distributionManagement>
 </project>
