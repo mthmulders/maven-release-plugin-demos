@@ -31,7 +31,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-release-plugin</artifactId>
-                <version>3.0.0-M2</version>
+                <version>3.0.0-M4</version>
                 <dependencies>
                     <dependency>
                         <groupId>it.mulders.maven</groupId>
